@@ -1,0 +1,5 @@
+package com.tito.estudo.jwt.controller;
+
+public class StatusController {
+
+}

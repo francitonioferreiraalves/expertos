@@ -1,0 +1,5 @@
+package com.tito.estudo.jwt.model;
+
+public class UsuarioModel {
+
+}

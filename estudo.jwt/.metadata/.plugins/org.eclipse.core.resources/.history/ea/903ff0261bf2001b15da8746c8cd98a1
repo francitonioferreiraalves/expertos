@@ -1,0 +1,5 @@
+package com.tito.estudo.jwt.repository;
+
+public class UsuarioRepository {
+
+}
